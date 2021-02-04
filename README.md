@@ -1,4 +1,4 @@
-# intoroman
+# intoroman - A Lisp program to convert decimals to roman numbers
 A Lisp program converting decimals to the roman representation
 
 ## Where does it come from?
